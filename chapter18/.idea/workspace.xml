@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aac0f1e5-8620-49f2-b098-e582f1195edd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P9mrDSmSz0LtZ1RdNlgUuxm3dp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/chapter18" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_java_project\chapter18\out\production\chapter18" />
+      <recent name="F:\idea_java_project\chapter18\src\com\hspedu\tankgame4" />
+      <recent name="F:\idea_java_project\chapter18\src\com\hspedu\tankgame3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HspTankGame04">
+    <configuration name="HspTankGame03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.tankgame3.HspTankGame03" />
+      <module name="chapter18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.tankgame3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HspTankGame04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.tankgame4.HspTankGame04" />
+      <module name="chapter18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hspedu.tankgame4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HspTankGame04" />
+        <item itemvalue="Application.HspTankGame03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aac0f1e5-8620-49f2-b098-e582f1195edd" name="Default Changelist" comment="" />
+      <created>1682877869191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682877869191</updated>
+      <workItem from="1682877870214" duration="49000" />
+      <workItem from="1682878003038" duration="6511000" />
+      <workItem from="1683103805620" duration="12395000" />
+      <workItem from="1683188258905" duration="1391000" />
+      <workItem from="1683657620583" duration="705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1683132257042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1683132257042" />
+    <state x="489" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1682882384205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1682882384205" />
+    <state width="1411" height="3" key="GridCell.Tab.0.bottom" timestamp="1683658871473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1411" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1683658871473" />
+    <state width="1411" height="3" key="GridCell.Tab.0.center" timestamp="1683658871473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1411" height="3" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1683658871473" />
+    <state width="1411" height="3" key="GridCell.Tab.0.left" timestamp="1683658871473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1411" height="3" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1683658871473" />
+    <state width="1411" height="3" key="GridCell.Tab.0.right" timestamp="1683658871473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1411" height="3" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1683658871473" />
+    <state width="1867" height="330" key="GridCell.Tab.1.bottom" timestamp="1682886037035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1682886037035" />
+    <state width="1867" height="330" key="GridCell.Tab.1.center" timestamp="1682886037034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1682886037034" />
+    <state width="1867" height="330" key="GridCell.Tab.1.left" timestamp="1682886037034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1682886037034" />
+    <state width="1867" height="330" key="GridCell.Tab.1.right" timestamp="1682886037035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1682886037035" />
+    <state x="265" y="57" key="new project wizard" timestamp="1683658870256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="265" y="57" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1683658870256" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1683132828992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1683132828992" />
+  </component>
+</project>
