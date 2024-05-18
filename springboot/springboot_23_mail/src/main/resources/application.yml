@@ -1,0 +1,13 @@
+#QQ邮箱
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 944379197@qq.com
+    password: lffaahaaserpbcbc
+
+#spring:
+#  mail:
+#    host: smtp.126.com
+#    username: test@126.com
+#    password: test
+

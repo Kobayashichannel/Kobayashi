@@ -1,0 +1,8 @@
+#配置端口:方式二
+#主写格式
+server:
+  port: 82
+
+logging:
+  level:
+    root: warn
